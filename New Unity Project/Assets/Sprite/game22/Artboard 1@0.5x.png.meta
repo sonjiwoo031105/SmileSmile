@@ -1,0 +1,449 @@
+fileFormatVersion: 2
+guid: 28585a0f70fe3d641b2671fe581f2924
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6425270231311142007
+    second: normal
+  - first:
+      213: -2243572790181509495
+    second: bingbing
+  - first:
+      213: -2272354455841377062
+    second: star5
+  - first:
+      213: -7325472051348686034
+    second: icecream
+  - first:
+      213: 6805043888951586540
+    second: bang
+  - first:
+      213: -4275424838700256943
+    second: star1
+  - first:
+      213: -6449155758080563070
+    second: normal
+  - first:
+      213: -6329824897145357527
+    second: star3
+  - first:
+      213: -6659840858830259677
+    second: star4
+  - first:
+      213: -7815507756532643554
+    second: star5
+  - first:
+      213: -8063354168573495276
+    second: Artboard 1@0.5x_3
+  - first:
+      213: -6751040062945175444
+    second: bang
+  - first:
+      213: 5667548842916599777
+    second: star1
+  - first:
+      213: 8661674218339806437
+    second: normal
+  - first:
+      213: 8964876941748437381
+    second: doll
+  - first:
+      213: 9217009715263640416
+    second: icecream
+  - first:
+      213: 3608451090863697224
+    second: star2
+  - first:
+      213: 6159309065988721001
+    second: bouquet
+  - first:
+      213: -7239953261370220487
+    second: fryingpan
+  - first:
+      213: -6425270231311142007
+    second: star3
+  - first:
+      213: -2243572790181509495
+    second: star4
+  - first:
+      213: 3268932918874349460
+    second: doll
+  - first:
+      213: -6830495587504096768
+    second: icecream
+  - first:
+      213: -5747492040255964494
+    second: star2
+  - first:
+      213: 7114290429697367986
+    second: bouquet
+  - first:
+      213: 3353301838571047059
+    second: fryingpan
+  - first:
+      213: 1666345702133716907
+    second: soccerball
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: star5
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 800
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19cf809a1db98390800000000000000
+      internalID: -7815507756532643554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bang
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 447
+        width: 242
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68d8bfc4dc7f42a0800000000000000
+      internalID: -6751040062945175444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 637
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7583905ad27ae40800000000000000
+      internalID: 5667548842916599777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: normal
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 353
+        width: 199
+        height: 270
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ecad406fc2743870800000000000000
+      internalID: 8661674218339806437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star3
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 793
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 983bec464cad4d6a0800000000000000
+      internalID: -6425270231311142007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star4
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 812
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 986cf7d2f6a3dd0e0800000000000000
+      internalID: -2243572790181509495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doll
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 272
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f16109b259d5d20800000000000000
+      internalID: 3268932918874349460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: icecream
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 45
+        width: 77
+        height: 263
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00af1f2e3743531a0800000000000000
+      internalID: -6830495587504096768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: star2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 274
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ba782fd07ecc30b0800000000000000
+      internalID: -5747492040255964494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bouquet
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 46
+        width: 143
+        height: 161
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bf9213e3790bb260800000000000000
+      internalID: 7114290429697367986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fryingpan
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 62
+        width: 243
+        height: 105
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39801b07142598e20800000000000000
+      internalID: 3353301838571047059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: soccerball
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 260
+        width: 133
+        height: 147
+      alignment: 9
+      pivot: {x: 0.48945972, y: 0.71620893}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba7dda0669c002710800000000000000
+      internalID: 1666345702133716907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
