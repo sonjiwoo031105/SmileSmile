@@ -391,7 +391,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 96.000015, y: 44.700043}
-  m_SizeDelta: {x: 15, y: 15}
+  m_SizeDelta: {x: 20, y: 20}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &337658454
 MonoBehaviour:
@@ -521,7 +521,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   nextpanel: {fileID: 1236009975}
-  sceneName: game2
+  sceneName: Stage2
 --- !u!81 &374432939
 AudioListener:
   m_ObjectHideFlags: 0
