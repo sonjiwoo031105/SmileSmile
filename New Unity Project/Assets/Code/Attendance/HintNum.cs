@@ -12,10 +12,10 @@ public class HintNum : MonoBehaviour {
     void Start()
     {
         hintNum.text = "0";
+        Debug.Log(System.DateTime.Now);
     }
     void Update()
     {
-
     }
     public void Hint1Plus()
     {
